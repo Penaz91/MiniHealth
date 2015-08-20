@@ -1,0 +1,5 @@
+name: MiniHealth
+main: minihealth.minihealth.main
+version: 0.0.1_SNAPSHOT
+author: Penaz
+database: false
